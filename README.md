@@ -1,9 +1,12 @@
-Group-7 Lab 3 Exercise
-
-|Name       | Email                          |
-|___________|________________________________|
-|Lakshmikar | lakshmikarpolamreddy@gmail.com |
-|____________________________________________|
+Group-2 Lab 3 Exercise
+_________________________________________________
+|Name                    | Email                 |
+|________________________|_______________________|
+|Naveen Chowdary Aliveli | naliveli@mail.yu.edu  | 
+|Sweety Saha             | ssaha2@mail.yu.edu    |
+|Yuchen Ji               | jyuchen@mail.yu.edu   | 
+|Ziqi Huang              | hziqi@mail.yu.edu     |
+|________________________________________________|
 
 # Lab #3: Develop Code Repository and Push Commits 
 
